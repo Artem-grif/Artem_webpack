@@ -1,1 +1,1 @@
-# Artem_webpack
+# Hillel-group
